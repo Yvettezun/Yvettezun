@@ -4,7 +4,7 @@
 Welcome! 🏵
 </h2> 
 
-To me, developing web applications is like connecting all the puzzle pieces together. Having the ability to bring applications to life is what makes me committed to this field!
+Developing web applications is like connecting all the puzzle pieces together. Having the ability to bring applications to life is what makes me committed to this field!
 
 ## ⚙🛠 Technical Skills
 
