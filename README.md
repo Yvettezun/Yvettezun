@@ -31,3 +31,5 @@ To me, developing web applications is like connecting all the puzzle pieces toge
 ## 📈 GitHub Stats 
 
 [![Yvette's github stats](https://github-readme-stats.vercel.app/api?username=yvettezun)](https://github.com/yvettezun)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvettezun&layout=compact)](https://github.com/yvettezun)
