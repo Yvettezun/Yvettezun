@@ -28,6 +28,13 @@ Developing web applications is like connecting all the puzzle pieces together. H
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 🤓📝 Currently Learning...
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+</br>
+
+
 ## 📈 GitHub Stats 
 
 [![Yvette's github stats](https://github-readme-stats.vercel.app/api?username=yvettezun)](https://github.com/yvettezun)
